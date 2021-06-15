@@ -1,9 +1,16 @@
 .section-search input {
- padding: 5px !important;
- font-size: 18px !important;
- width: 90% !important;
- border: #f4f4f4 3px solid !important;   
+  padding: 5px !important;
+  font-size: 18px !important;
+  width: 90% !important;
+  border: #f4f4f4 3px solid !important;
 }
 .section-follow .fa-4x {
-    margin: 5px 10px;
+  margin: 5px 10px;
+}
+.slider blockquote {
+  width: 70%;
+  padding: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: rgba(0, 0, 0, 0.6);
 }
