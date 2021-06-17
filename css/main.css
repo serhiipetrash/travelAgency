@@ -14,3 +14,10 @@
   border-bottom-right-radius: 20px;
   background-color: rgba(0, 0, 0, 0.6);
 }
+@media (max-width: 600px) {
+  section h2 { font-size: 2.5rem; }
+  section h3 { font-size: 2rem; }
+  section h4 { font-size: 1.5rem; }
+  .fa-4x { font-size: 2em; }
+  .row { margin-bottom: 0; }
+}
